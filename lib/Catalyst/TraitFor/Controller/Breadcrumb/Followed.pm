@@ -2,7 +2,7 @@ package Catalyst::TraitFor::Controller::Breadcrumb::Followed;
 
 use 5.008;
 
-our $VERSION   = '0.01';
+our $VERSION   = '0.02';
 $VERSION = eval $VERSION;
 
 use Moose::Role;
@@ -239,7 +239,7 @@ your configuration in your application.
 
 =head1 AUTHOR
 
-Ian Docherty cpan@icydee.com
+Ian Docherty pause@icydee.com
 
 =head1 COPYRIGHT & LICENSE
 
